@@ -1,2 +1,2 @@
 # clrs-notes
-Notes Of CLRS
+Notes of CLRS
