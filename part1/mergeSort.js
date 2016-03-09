@@ -35,9 +35,11 @@ var mergeSort = function(array){
 var array = [2,1,5,6,7,9,2,3,56,23],
     array2 = [0],
     array3 = [1,0],
-    array4 = [9,8,7,6,4,3,2,1];
+    array4 = [9,8,7,6,4,3,2,1],
+    array5 = [9,8,7];
 
 console.log(mergeSort(array));
 console.log(mergeSort(array2));
 console.log(mergeSort(array3));
 console.log(mergeSort(array4));
+console.log(mergeSort(array5));
